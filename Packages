@@ -6,9 +6,9 @@ Description: Uygulamarı fakesign ile imzalamaya yarayan bir tweak
 Maintainer: MonoTechYT
 Author: MonoTechYT 
 Section: Utilities 
-Depends:  
+Depends: 
 Filename: debs/appsyncunified_70.0_iphoneos-arm.deb 
 Size: 64236
-MD5sum:
-SHA1: 
-SHA256: 
+MD5sum: 7e22faa0a9a3612d922049c54f120209
+SHA1: 4d464d6596bab5dbbdbfc3c9c4eb110c7996c7b9
+SHA256: f3c7a21ae7eb715af70ff6322b23815f3f9e07e860564aabba5b8f2e992ac0d4
